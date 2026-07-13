@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hcroblox.github.io/Lucky-Spin/sitemap.xml
